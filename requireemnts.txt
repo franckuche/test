@@ -3,3 +3,4 @@ streamlit
 requests
 bs4
 newspaper3k
+BeautifulSoup
